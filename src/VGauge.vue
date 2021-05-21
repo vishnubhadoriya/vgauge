@@ -102,6 +102,9 @@ export default {
   watch: {
     value: function(newVal) {
       this.gauge.set(newVal);
+    },
+    options: function(newVal) {
+      this.gauge.setOptions(newVal);
     }
   },
   methods: {
