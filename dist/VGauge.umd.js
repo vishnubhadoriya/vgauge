@@ -36,7 +36,7 @@
 	    },
 	    decimalPlace: {
 	      type: Number,
-	      default: 2
+	      default: 1
 	    },
 	    gaugeValueClass: {
 	      type: String,
@@ -275,11 +275,11 @@
 	  /* style */
 	  var __vue_inject_styles__ = function (inject) {
 	    if (!inject) { return }
-	    inject("data-v-521a3950_0", { source: ".gauge-title span[data-v-521a3950]{display:inline;text-align:center}", map: undefined, media: undefined });
+	    inject("data-v-d39cb18e_0", { source: ".gauge-title span[data-v-d39cb18e]{display:inline;text-align:center}", map: undefined, media: undefined });
 
 	  };
 	  /* scoped */
-	  var __vue_scope_id__ = "data-v-521a3950";
+	  var __vue_scope_id__ = "data-v-d39cb18e";
 	  /* module identifier */
 	  var __vue_module_identifier__ = undefined;
 	  /* functional template */
