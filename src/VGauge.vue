@@ -31,7 +31,7 @@ export default {
     },
     decimalPlace: {
       type: Number,
-      default: 0
+      default: 2
     },
     gaugeValueClass: {
       type: String,
